@@ -6,3 +6,10 @@
 - 계정 : user01 ~ user30
 - 비밀번호 : 동일
 - 드라이버는 다운로드
+
+**네트워크에 상관없이 오라클 접속
+HOST : 1.220.201.108
+PORT: 1521
+SID(DB):xe
+USER: USER00~USER30
+PASSWORD : 동일
